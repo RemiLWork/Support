@@ -2,3 +2,6 @@
 
 # Support
 Vous trouverez ici une vidéo et un manuel sur la réalisation des graphiques sur Power BI. Je joins également les ressources qui vont avec.
+
+Lien vers la vidéo : https://www.loom.com/share/f5da7a2606844e07a28f9ab99159097c
+
